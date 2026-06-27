@@ -142,7 +142,7 @@ car-rental-ts/
 <h2>📸 Proje Önizleme</h2>
 
 <p align="center">
-  <img src="image.png" width="90%">
+  <img src="image7.png" width="90%">
 </p>
 
 <hr>
