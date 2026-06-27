@@ -125,7 +125,7 @@ car-rental-ts/
 │
 ├── .gitignore
 ├── eslint.config.js
-├── image.gif
+├── image7.gif
 ├── image.png
 ├── index.html
 ├── package-lock.json
